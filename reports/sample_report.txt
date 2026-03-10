@@ -1,0 +1,16 @@
+EMPLOYEE REPORT
+
+Total Employees: 4
+
+Salary Statistics
+-------------------------
+Total Salary: ₹360000
+Average Salary: ₹90000
+Highest Salary: ₹105000
+Lowest Salary: ₹75000
+
+Department Summary
+-------------------------
+Engineering : 2 Employees
+Marketing   : 1 Employee
+HR          : 1 Employee
